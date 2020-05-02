@@ -25,7 +25,7 @@
 
 ### 새로운 알고리즘
 
-- **다익스트라<sup>Dijkstra</sup>** <sub>([dijkstra.py](https://github.com/airotod/algorithm-study/blob/master/search/dijkstra.py))</sub>
+- **다익스트라<sup>Dijkstra</sup> 알고리즘** <sub>([dijkstra.py](https://github.com/airotod/algorithm-study/blob/master/search/dijkstra.py))</sub>
 
     - **다익스트라의 활용**
 
@@ -38,3 +38,9 @@
     - **다익스트라의 한계**
 
         음의 가중치에 대해서는 계산이 불가능하다.
+
+## 
+
+### 참고 자료
+
+- [Dijkstra's algorithm - Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
