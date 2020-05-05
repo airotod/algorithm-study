@@ -15,6 +15,12 @@
 
 - 이분탐색<sup>Binary Search</sup>
 
+    - 자료를 반으로 계속해서 나누어 탐색하는 방법으로, 반드시 **정렬**된 자료여야 한다.
+
+    - 다음은 자료 <code>[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]</code>가 주어졌을 때 7을 찾는 과정이다.
+
+        <img width="70%" alt="binary_search" src="https://github.com/airotod/algorithm-study/blob/master/images/binary_search.gif">
+
 ## 
 
 ### 모의 테스트
